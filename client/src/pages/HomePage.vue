@@ -7,7 +7,7 @@
     <div class="home-card p-5 card align-items-center shadow rounded elevation-3">
       <img src="/src/assets/img/Tracker Logo.png" alt="Tracker Logo" class="rounded-circle">
       <h1 class="my-5 bg-dark text-white p-3 rounded text-center">
-        Vue 3 Starter
+        Tracker
       </h1>
     </div>
   </div>
