@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: your-dockerhub-username/GeoTracker:latest
+    image: blazej686/GeoTracker:latest
     restart: unless-stopped
     env_file:
       - GeoTracker-env
