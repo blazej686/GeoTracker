@@ -4,7 +4,10 @@
 
 <template>
   <div class="about">
-
+    <p>This is a project I am working on currently albeit not much as my day job is working me 50 hours a week or more
+      right now. The intent of this app is to allow you to track different locations you have been to such as states in
+      the USA or country in the world. A few things I would like to add once I have an MVP running would to be able to
+      allow you to have a leader board or compare with other users to see where you compare with others. </p>
   </div>
 </template>
 
